@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shahzaib</h1>
-<h3 align="center">Computer Science Student & passionate JS Developer</h3>
+<h3 align="center">NextJS & passionate JS Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/sshahzaiib" target="blank"><img src="https://img.shields.io/twitter/follow/sshahzaiib?logo=twitter&style=for-the-badge" alt="sshahzaiib" /></a> </p>
 
 - 🌱 I’m currently learning **AI with Python**
 
-- 👨‍💻 All of my projects are available at [https://shahzaib.blog](https://shahzaib.blog)
+- 👨‍💻 All of my projects are available at [https://shahzaib.netlify.app](https://shahzaib.blog)
 
 - 💬 Ask me about **JavaScript, React, React Native, NodeJS**
 
