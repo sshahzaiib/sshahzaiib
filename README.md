@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [app.deriv.com](https://app.deriv.com) / [hub.deriv.com](https://hub.deriv.com)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript** & **OutSystems**
 
 - 💬 Ask me about **React, Redux, mobx, NextJS**
 
