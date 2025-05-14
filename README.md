@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sshahzaiib" target="blank"><img src="https://img.shields.io/twitter/follow/sshahzaiib?logo=twitter&style=for-the-badge" alt="sshahzaiib" /></a> </p>
 
-- 🔭 I’m currently working on [app.deriv.com](https://app.deriv.com)/[hub.deriv.com](https://hub.deriv.com)
+- 🔭 I’m currently working on [app.deriv.com](https://app.deriv.com) / [hub.deriv.com](https://hub.deriv.com)
 
 - 🌱 I’m currently learning **Typescript**
 
