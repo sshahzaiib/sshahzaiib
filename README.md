@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzaib</h1>
-<h3 align="center">A passionate frontend developer at Deriv.com</h3>
+<h3 align="center">A passionate Senior Software Engineer at Deriv</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshahzaiib" alt="sshahzaiib" /></a> </p>
 
