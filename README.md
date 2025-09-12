@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Redux, mobx, NextJS**
 
-- 📫 How to reach me **issshahzaib@gmail.com**
+- 📫 How to reach me **dev@shahzaibakram.dev**
 
 - ⚡ Fun fact **I'm also into landscape photography**
 
