@@ -1,19 +1,34 @@
 <h1 align="center">Hi 👋, I'm Shahzaib</h1>
-<h3 align="center">A passionate Senior Software Engineer at Deriv</h3>
+<h3 align="center">Senior Software Engineer &amp; indie maker — building browser extensions, native Mac apps and AI developer tools</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshahzaiib" alt="sshahzaiib" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sshahzaiib" target="blank"><img src="https://img.shields.io/twitter/follow/sshahzaiib?logo=twitter&style=for-the-badge" alt="sshahzaiib" /></a> </p>
 
-- 🔭 I’m currently working on [deriv.com](https://deriv.com)
+## 🛠️ What I'm building
 
-- 🌱 I’m currently learning **NestJS**, **Typescript** & **OutSystems**
+I build focused, privacy-first tools under **[NorthLab](https://northlabapps.com)** and in the open:
 
-- 💬 Ask me about **React, Redux, mobx, NextJS**
+| Project | What it is | Status |
+|---|---|---|
+| [**NorthLab Folders**](https://northlabapps.com/folders/) | Organize ChatGPT & Claude conversations into folders, with cross-chat search | 🟢 Live on Chrome Web Store |
+| **NorthLab Tabs** | Vertical tabs, tab suspender & saved sessions for Chrome | 🚧 In development |
+| [**agy-bridge**](https://github.com/sshahzaiib/agy-bridge) | MCP server that lets Claude Code delegate heavy work to the Antigravity CLI (Gemini) to save context & tokens | 🟢 Published on npm |
+| [**senior-designer-skill**](https://github.com/sshahzaiib/senior-designer-skill) | Claude Code skill that turns any UI build into research-backed, accessible, non-generic design | 🟢 Open source |
+| [**Riptide**](https://github.com/sshahzaiib/riptide) | Native macOS & Apple TV player for your Real-Debrid library — TMDB posters, mpv playback, Trakt sync | 🚧 In development |
+| **Cascade** | Native macOS download manager with Real-Debrid integration | 🚧 In development |
+| **Cat Gatekeeper** | iOS & Android doomscroll blocker — earn screen time by doing quick real-world tasks | 🚧 In development |
+| [**oxide-dock**](https://github.com/sshahzaiib/oxide-dock) | Rust + Vue 3 + Tauri v2 desktop starter with CI/CD and cross-platform releases | 🟢 Open source |
 
-- 📫 How to reach me **dev@shahzaibakram.dev**
+✍️ I write about building with AI agents, extensions and indie products on [**shahzaibakram.dev/blog**](https://shahzaibakram.dev/blog).
 
-- ⚡ Fun fact **I'm also into landscape photography**
+## 💼 Work with me
+
+I'm available for **freelance & contract work** — web apps (React / Next.js / TypeScript), browser extensions, native macOS/iOS (SwiftUI), and AI/LLM integrations (MCP servers, Claude Code tooling).
+
+📫 **Email:** [dev@shahzaibakram.dev](mailto:dev@shahzaibakram.dev) &nbsp;·&nbsp; 🌐 **Portfolio:** [shahzaibakram.dev](https://shahzaibakram.dev) &nbsp;·&nbsp; 💼 **LinkedIn:** [issshahzaib](https://linkedin.com/in/issshahzaib)
+
+⚡ Fun fact: I'm also into landscape photography.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
